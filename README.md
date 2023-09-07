@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<PROGRAMING>
+<Engineering>
+  COMPUTER SCIENCE AND ENGINEERING 
+</Engineering>
+
 <!--
 **chandupn05/chandupn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
